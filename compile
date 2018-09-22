@@ -1,0 +1,2 @@
+#g++ -Wall atm.cpp rad_flux.cpp heat_transfer.cpp main.cpp -o run
+g++ -O2 -Wall -Wno-unused-result sphere_balloon.cpp std_atm.cpp rad_flux.cpp main.cpp -o run

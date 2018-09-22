@@ -1,0 +1,5 @@
+0.2		#ground albedo, range [0,1]
+0.95	#ground emissivity, range [0,1]
+293		#ground temperature
+0.0   	#percent cloud coverage, range [0,1]
+3000  	#cloud elevation

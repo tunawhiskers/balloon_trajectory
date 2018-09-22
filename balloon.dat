@@ -1,0 +1,9 @@
+5.79        # diameter (m)
+0.8         # payload mass (kg)
+939.0       # envelope material density (kg/m^3)
+7.874E-6    # envelope thickness (m)
+2250.0      # specific heat envelope material (J/(kg K))
+0.5         # Virtual mass coefficent
+0.8         # Radiation absorptivity, range [0,1]
+0.1         # Radiation transmittance, range [0,1]
+0.1         # Radiation reflectivity, range [0.1]
